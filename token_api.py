@@ -12,8 +12,8 @@ import pandas as pd
 
 # Token Access
 keys = {
-    "client_id": "mnshverfmemhyvk4evrlm8m1mu04ay",
-    "client_secret": "zwz9c3ols1hi4eevaz4xsv181jt4pa",
+    "client_id": "removed",
+    "client_secret": "removed",
     "grant_type": "client_credentials"
 }
 
